@@ -1,0 +1,85 @@
+@media only screen and (min-width: 456px) {
+
+.dev-right{
+    width:600px ;
+    height: 550px;
+    position: absolute;
+    margin-left: 450px;
+    background-color: #6D91EE;
+   
+}  
+.where{
+    width: 600px;
+    height: 500px;
+    margin-left: 50px ;
+    
+}
+.where h1{
+    color: #ffffff;
+    margin-top: 50px;
+    font-size: 50px;
+    width: 350px;
+margin-left: 200px;
+    text-align: center;
+
+}
+.where p{
+    color: #ffffff;
+    font-size: 15px;
+    margin-top: 50px;
+    width: 400px;
+    margin-left: 50px;
+}
+.where button{
+    width: 150px;
+height: 65px;
+top: -460px;
+left: -146px;
+gap: 0px;
+border-radius: 71px;
+opacity: 0px;
+color: #515151;
+}
+}
+@media screen and (max-width: 992px){
+    
+    .dev-right{
+        width:500px ;
+        height: 550px;
+        background-color: #6D91EE;
+        margin-top: 500px;
+        margin-left: -1px;
+    }  
+    .where{
+        width: 600px;
+        height: 500px;
+        margin-left: 50px ;
+        
+    }
+    .where h1{
+        color: #ffffff;
+        margin-top: 50px;
+        font-size: 50px;
+        width: 350px;
+    margin-left: 1px;
+        text-align: start;
+    }
+    .where p{
+        color: #ffffff;
+        font-size: 15px;
+        margin-top: 50px;
+        width: 400px;
+        margin-left:1px;
+    }
+    .where button{
+        width: 150px;
+    height: 65px;
+    top: -460px;
+    left: -146px;
+    gap: 0px;
+    border-radius: 71px;
+    opacity: 0px;
+    background-color: #EEC04B;
+    color: #515151;
+    }   
+}
